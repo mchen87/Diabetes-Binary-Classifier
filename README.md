@@ -5,7 +5,7 @@
 #### - BCELossWithoutLogits Loss Function
 #### - Training Loop With 2000 Epochs
 #### - NN.Dropout() Layers Interspersed to Prevent Model from Overfitting
-#### - Achieves 92%+ Accuracy 
+#### - Achieves 80%+ Accuracy 
 ###
 # Run This on an IDE to Download the Directory
 ```git clone https://github.com/mchen87/Diabetes-Binary-Classifier```
